@@ -1,0 +1,9 @@
+domain,shingle,label
+https://www.mymemory.co.uk,"[0, 3, 0, 1, 0, -1, 0, -1]",Catalogo
+https://www.mymemory.co.uk,"[0, 3, -1, 0, 0, 1, 0, -1]",Prodotto
+https://www.androidleo.com,"[0, 1, 3, -1, 1, 0, -1, 0, 3]",Prodotto
+https://www.androidleo.com,"[0, -1, 2, -1, 7, 6, 2, 3]",Catalogo
+https://www.manualzz.com,"[-1, 4, 6, 1, 3, 3, 1, 1, 5, 3]",Prodotto
+https://www.manualzz.com,"[-1, 0, 6, 0, 5, 6, 2, 3]",Catalogo
+https://www.addrom.com,"[-1, -1, 1, 3, 0, 6, 0, 5]",Catalogo
+https://www.addrom.com,"[-1, 3, 1, 1, 0, 3, 0, -1]",Prodotto
